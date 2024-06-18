@@ -1,3 +1,4 @@
 - taruh file di server, contoh server local Xampp
+- masukkan semua file dalam 1 folder dan berinama absensi
 - konfigurasi pada script function "127.0.0.1", "root", "","absensi"
 - Thanks
